@@ -1,0 +1,4 @@
+- Milk
+- Cheese
+- Ham
+- Bread
